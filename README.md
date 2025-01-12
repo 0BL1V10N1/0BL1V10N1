@@ -5,7 +5,7 @@
 - 🔰 &nbsp; Novice developer.
 - 🎓 &nbsp; L2 Info student in La Rochelle.
 - 🎂 &nbsp; I am 19 years old and I live in France.
-- 💻 &nbsp; I mainly dev in javascript and python, however I also know how to dev in java and C#.
+- 💻 &nbsp; I mainly dev in javascript and python, however I can also dev in java and C#.
 
 <h3> 🛠 &nbsp;My skills.</h3>
 
