@@ -1,13 +1,13 @@
-<h1 align="center">👋 Salut je suis 0BL1V10N</h1>
+<h1 align="center">👋 Hi, i am 0BL1V10N</h1>
 
-<h3> 👨🏻‍💻 &nbsp;A propos de moi.</h3>
+<h3> 👨🏻‍💻 &nbsp;About me.</h3>
 
-- 🔰 &nbsp; Développeur novice.
-- 🎓 &nbsp; Etudiant L2 Info à La Rochelle.
-- 🎂 &nbsp; J'ai 19 ans et j'habite en France.
-- 💻 &nbsp; Je dev principalement en javascript et en python, cependant je sais aussi dev en java et C#.
+- 🔰 &nbsp; Novice developer.
+- 🎓 &nbsp; L2 Info student in La Rochelle.
+- 🎂 &nbsp; I am 19 years old and I live in France.
+- 💻 &nbsp; I mainly dev in javascript and python, however I also know how to dev in java and C#.
 
-<h3> 🛠 &nbsp;Mes compétences.</h3>
+<h3> 🛠 &nbsp;My skills.</h3>
 
 - 💻 &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
@@ -43,9 +43,9 @@
 
 <br/>
 
-<a href="https://github.com/Pataxsa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pataxsa&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pataxsa&theme=buefy&layout=compact" />
+<a href="https://github.com/0BL1V10N1">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0BL1V10N1&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0BL1V10N1&theme=buefy&layout=compact" />
 </a>
 
 <br/>
