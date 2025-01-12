@@ -12,7 +12,7 @@
 - 💻 &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
   ![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron)
   ![C#](https://img.shields.io/badge/-CS-333333?style=flat&logo=C#3&logoColor=1572B6)
 
@@ -28,6 +28,7 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Sqlite](https://img.shields.io/badge/-Sqlite-333333?style=flat&logo=sqlite)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
   
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -36,16 +37,16 @@
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
   
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20-333333?style=flat&logo=visual-studio&logoColor=007ACC)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visualstudiocode&logoColor=007ACC)
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20-333333?style=flat&logo=visualstudio&logoColor=007ACC)
   ![Intellij IDEA](https://img.shields.io/badge/-Intellij%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=2C2255)
 
 
 <br/>
 
 <a href="https://github.com/0BL1V10N1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0BL1V10N1&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0BL1V10N1&theme=buefy&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0BL1V10N1&theme=dark&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0BL1V10N1&theme=dark&layout=compact" />
 </a>
 
 <br/>
