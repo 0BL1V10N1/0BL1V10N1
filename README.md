@@ -10,38 +10,37 @@
 <h3> 🛠 &nbsp;My skills.</h3>
 
 - 💻 &nbsp;
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
-  ![Electron](https://img.shields.io/badge/-Electron-333333?style=flat&logo=electron)
-  ![C#](https://img.shields.io/badge/-CS-333333?style=flat&logo=C#3&logoColor=1572B6)
+  <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" /></a>
+  <a href="https://www.electronjs.org" target="_blank"><img src="https://img.shields.io/badge/Electron-1C1C26?style=for-the-badge&logo=electron&logoColor=9EEAF9" /></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /></a>
+  <a href="https://dotnet.microsoft.com" target="_blank"><img src="https://img.shields.io/badge/.NET%208.0-blueviolet?style=for-the-badge&logo=dotnet" /></a>
 
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![JavaScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+  <a href="https://developer.mozilla.org/fr/docs/Glossary/HTML5" target="_blank"><img src="https://shields.io/badge/HTML-f06529?style=for-the-badge&logo=html5&logoColor=white&labelColor=f06529" /></a>
+  <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></a>
+  <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank"><img src="https://shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000" /></a>
+  <a href="https://www.typescriptlang.org" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+  <a href="https://www.php.net" target="_blank"><img src="https://shields.io/badge/PHP-3776AB?style=for-the-badge&logo=php" /></a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
   
 - 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![Sqlite](https://img.shields.io/badge/-Sqlite-333333?style=flat&logo=sqlite)
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
-  ![Redis](https://img.shields.io/badge/-Redis-333333?style=flat&logo=redis)
+  <a href="https://www.mysql.com" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+  <a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
+  <a href="https://www.sqlite.org" target="_blank"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /></a>
+  <a href="https://www.mongodb.com" target="_blank"><img src="https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+  <a href="https://redis.io" target="_blank"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /></a>
   
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![GitLab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" /></a>
+  <a href="https://github.com" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://gitlab.com" target="_blank"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=fff" /></a>
+  <a href="https://www.docker.com" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff" /></a>
   
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visualstudiocode&logoColor=007ACC)
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20-333333?style=flat&logo=visualstudio&logoColor=007ACC)
-  ![Intellij IDEA](https://img.shields.io/badge/-Intellij%20IDEA-333333?style=flat&logo=intellij-idea&logoColor=2C2255)
-
+  <a href="https://code.visualstudio.com" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white" /></a>
+  <a href="https://visualstudio.microsoft.com" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" /></a>
+  <a href="https://www.jetbrains.com/idea" target="_blank"><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" /></a>
 
 <br/>
 
