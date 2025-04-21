@@ -2,10 +2,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About me.</h3>
 
-- 🔰 &nbsp; Novice developer.
-- 🎓 &nbsp; L2 Info student in La Rochelle.
-- 🎂 &nbsp; I am 19 years old and i live in France.
-- 💻 &nbsp; I mainly dev in javascript and python, however i can also dev in java and C#.
+- 🌱 &nbsp; Passionate about learning new technologies and improving my skills.
+- 🎓 &nbsp; Computer Science student in La Rochelle, France.
+- 🎂 &nbsp; I'm 19 years old and currently living in France.
+- 💻 &nbsp; I mainly develop in JavaScript and Python, but I also have experience with Java and C#.
 
 <h3> 🛠 &nbsp;My skills.</h3>
 
