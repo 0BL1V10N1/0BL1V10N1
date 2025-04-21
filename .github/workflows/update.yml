@@ -1,0 +1,53 @@
+name: update
+
+on:
+  schedule:
+    - cron: "0 0 6 8 *"
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Update age in README.md
+        run: |
+          node -e "
+            const fs = require('fs');
+            const path = require('path');
+
+            const birthDate = new Date('2005-08-06');
+            const today = new Date();
+
+            let age = today.getFullYear() - birthDate.getFullYear();
+            const m = today.getMonth() - birthDate.getMonth();
+            if (m < 0 || (m === 0 && today.getDate() < birthDate.getDate())) {
+              age--;
+            }
+
+            const readmePath = path.join(__dirname, 'README.md');
+            let readmeContent = fs.readFileSync(readmePath, 'utf-8');
+
+            readmeContent = readmeContent.replace(/I'm (\d+) years old/, \`I'm \${age} years old\`);
+
+            fs.writeFileSync(readmePath, readmeContent);
+
+            console.log('✅ README.md has been updated with the new age!');
+          "
+
+      - name: Commit and push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add README.md
+          git commit -m "Update age in README.md"
+          git push
