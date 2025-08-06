@@ -4,7 +4,7 @@
 
 - 🌱 &nbsp; Passionate about learning new technologies and improving my skills.
 - 🎓 &nbsp; Computer Science student in La Rochelle, France.
-- 🎂 &nbsp; I'm 19 years old and currently living in France.
+- 🎂 &nbsp; I'm 20 years old and currently living in France.
 - 💻 &nbsp; I mainly develop in JavaScript and Python, but I also have experience with Java and C#.
 
 <h3> 🛠 &nbsp;My skills.</h3>
