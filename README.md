@@ -45,9 +45,8 @@
 
 <br/>
 
-<a href="https://github.com/0BL1V10N1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0BL1V10N1&theme=dark&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0BL1V10N1&theme=dark&layout=compact" />
+<a href="https://stats.hyo.dev/stats/0BL1V10N1">
+  <img src="https://stats.hyo.dev/api/github-stats-advanced?login=0BL1V10N1" width="600" />
 </a>
 
 <br/>
