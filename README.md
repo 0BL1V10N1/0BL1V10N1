@@ -24,6 +24,8 @@
   <a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" /></a>
   <a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank"><img src="https://shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000" /></a>
   <a href="https://www.typescriptlang.org" target="_blank"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+  <a href="https://vuejs.org" target="_blank"><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" /></a>
+  <a href="https://symfony.com" target="_blank"><img src="https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony" /></a>
   <a href="https://getbootstrap.com" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
   <a href="https://tailwindcss.com" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" /></a>
   
