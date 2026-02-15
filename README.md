@@ -17,6 +17,7 @@
   <a href="https://kotlinlang.org" target="_blank"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white" /></a>
   <a href="https://dotnet.microsoft.com" target="_blank"><img src="https://img.shields.io/badge/.NET%208.0-blueviolet?style=for-the-badge&logo=dotnet" /></a>
   <a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
+  <a href="https://www.php.net" target="_blank"><img src="https://shields.io/badge/PHP-3776AB?style=for-the-badge&logo=php" /></a>
 
 - 🌐 &nbsp;
   <a href="https://developer.mozilla.org/fr/docs/Glossary/HTML5" target="_blank"><img src="https://shields.io/badge/HTML-f06529?style=for-the-badge&logo=html5&logoColor=white&labelColor=f06529" /></a>
