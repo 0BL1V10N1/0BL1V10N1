@@ -1,13 +1,13 @@
-<h1 align="center">👋 Hi, i am 0BL1V10N</h1>
+<h1 align="center">👋 Hi, i'm 0BL1V10N</h1>
 
-<h3> 👨🏻‍💻 &nbsp;About me.</h3>
+<h3> 👨🏻‍💻 &nbsp;About me</h3>
 
 - 🌱 &nbsp; Passionate about learning new technologies and improving my skills.
 - 🎓 &nbsp; Computer Science student in La Rochelle, France.
 - 🎂 &nbsp; I'm 20 years old and currently living in France.
-- 💻 &nbsp; I mainly develop in JavaScript and Python, but I also have experience with Java and C#.
+- 💻 &nbsp; I mainly code in JavaScript and Python, and I also have experience with Java and C#.
 
-<h3> 🛠 &nbsp;My skills.</h3>
+<h3> 🛠 &nbsp;My skills</h3>
 
 - 💻 &nbsp;
   <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" /></a>
