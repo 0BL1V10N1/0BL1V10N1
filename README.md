@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, i'm 0BL1V10N</h1>
+<h1 align="center">👋 Hi, I’m 0BL1V10N</h1>
 
 <h3> 👨🏻‍💻 &nbsp;About me</h3>
 
@@ -52,6 +52,6 @@
 <a href="https://github.com/0BL1V10N1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0BL1V10N1&theme=dark&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0BL1V10N1&theme=dark&layout=compact" />
-<a/>
+</a>
 
 <br/>
