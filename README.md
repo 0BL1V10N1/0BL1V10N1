@@ -4,7 +4,7 @@
 
 - 🎓 &nbsp; Computer Science student in La Rochelle, France.
 - 🌱 &nbsp; I’m currently learning `Next.js` and `React Native`.
-- 💻 &nbsp; Mainly working with TypeScript, JavaScript, Python, and Kotlin.
+- 💻 &nbsp; Mainly working with `TypeScript`, `JavaScript`, `Python`, and `Kotlin`.
 - 🚀 &nbsp; Building open-source projects and useful tools.
 
 <h3> 🛠 &nbsp;Skills</h3>
