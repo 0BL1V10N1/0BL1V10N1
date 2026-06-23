@@ -30,6 +30,7 @@
     <img width="30px" title="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
     <img width="30px" title="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
     <img width="30px" title="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+    <img width="30px" title="Jetpack Compose" src="https://cdn.simpleicons.org/jetpackcompose" />
   </kbd>
 </p>
 
