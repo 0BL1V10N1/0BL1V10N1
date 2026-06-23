@@ -2,12 +2,12 @@
 
 <h3> 👨🏻‍💻 &nbsp;About me</h3>
 
-- 🌱 &nbsp; Passionate about learning new technologies and improving my skills.
 - 🎓 &nbsp; Computer Science student in La Rochelle, France.
-- 🎂 &nbsp; I'm 20 years old and currently living in France.
-- 💻 &nbsp; I mainly code in JavaScript and Python, and I also have experience with Java and C#.
+- 🌱 &nbsp; I’m currently learning `Next.js` and `React Native`.
+- 💻 &nbsp; Mainly working with TypeScript, JavaScript, Python, and Kotlin.
+- 🚀 &nbsp; Building open-source projects and useful tools.
 
-<h3> 🛠 &nbsp;My skills</h3>
+<h3> 🛠 &nbsp;Skills</h3>
 
 - 💻 &nbsp;
   <a href="https://nodejs.org" target="_blank"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" /></a>
@@ -28,20 +28,20 @@
   <a href="https://symfony.com" target="_blank"><img src="https://img.shields.io/badge/Symfony-black?style=for-the-badge&logo=symfony" /></a>
   <a href="https://getbootstrap.com" target="_blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></a>
   <a href="https://tailwindcss.com" target="_blank"><img src="https://img.shields.io/badge/Tailwind_CSS-grey?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" /></a>
-  
+   
 - 🛢 &nbsp;
   <a href="https://www.mysql.com" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
   <a href="https://www.postgresql.org" target="_blank"><img src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" /></a>
   <a href="https://www.sqlite.org" target="_blank"><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /></a>
   <a href="https://www.mongodb.com" target="_blank"><img src="https://img.shields.io/badge/MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
   <a href="https://redis.io" target="_blank"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /></a>
-  
+   
 - ⚙️ &nbsp;
   <a href="https://git-scm.com" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff" /></a>
   <a href="https://github.com" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://gitlab.com" target="_blank"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=fff" /></a>
   <a href="https://www.docker.com" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff" /></a>
-  
+   
 - 🔧 &nbsp;
   <a href="https://code.visualstudio.com" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white" /></a>
   <a href="https://visualstudio.microsoft.com" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" /></a>
