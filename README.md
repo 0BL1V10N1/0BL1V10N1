@@ -5,7 +5,7 @@
 - 🎓 &nbsp; Computer Science student based in La Rochelle, France.
 - 🌱 &nbsp; I’m currently learning `Next.js` and `React Native`.
 - 💻 &nbsp; Mainly working with `TypeScript`, `JavaScript`, `Python`, and `Kotlin`.
-- 🚀 &nbsp; Building open-source projects and useful tools.
+- 🚀 &nbsp; Building open-source projects across web, mobile, and new technologies.
 
 <h3>🛠 &nbsp;Tech stack</h3>
 
@@ -52,6 +52,7 @@
     <br><br>
     <img width="30px" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
     <img width="30px" title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    <img width="30px" title="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     <img width="30px" title="Vercel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" />
     <img width="30px" title="Cloudflare" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" />
     <img width="30px" title="Railway" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg" />
