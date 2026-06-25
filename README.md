@@ -39,6 +39,7 @@
     <kbd>Backend & data</kbd>
     <br><br>
     <img width="30px" title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img width="30px" title="NestJS" src="https://cdn.simpleicons.org/nestjs" />
     <img width="30px" title="Symfony" src="https://cdn.simpleicons.org/symfony/white" />
     <img width="30px" title="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
     <img width="30px" title="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
