@@ -58,6 +58,7 @@
     <img width="30px" title="Cloudflare" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" />
     <img width="30px" title="Railway" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg" />
     <img width="30px" title="Expo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" />
+    <img width="30px" title="Electron" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" />
     <img width="30px" title="Sentry" src="https://cdn.simpleicons.org/sentry" />
     <img width="30px" title="PostHog" src="https://cdn.simpleicons.org/posthog" />
   </kbd>
