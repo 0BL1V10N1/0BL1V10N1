@@ -31,6 +31,7 @@
     <img width="30px" title="Vue.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
     <img width="30px" title="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
     <img width="30px" title="Jetpack Compose" src="https://cdn.simpleicons.org/jetpackcompose" />
+    <img width="30px" title="Expo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" />
   </kbd>
 </p>
 
@@ -57,7 +58,6 @@
     <img width="30px" title="Vercel" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" />
     <img width="30px" title="Cloudflare" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" />
     <img width="30px" title="Railway" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/railway/railway-original.svg" />
-    <img width="30px" title="Expo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" />
     <img width="30px" title="IntelliJ IDEA" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" />
     <img width="30px" title="VS Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   </kbd>
